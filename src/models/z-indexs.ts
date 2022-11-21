@@ -1,0 +1,4 @@
+export const CORVUS_BASE_Z_INDEX = 0;
+export const CORVUS_HEADER_FOOTER_Z_INDEX = 10;
+export const CORVUS_HOVER_BUTTON_Z_INDEX = 15;
+export const CORVUS_MODAL_Z_INDEX = 20;
